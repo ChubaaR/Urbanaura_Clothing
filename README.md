@@ -1,5 +1,7 @@
 # Urbanaura_Clothing
 
+![Urbanaura Clothing](urbanaura.png)
+
 Welcome to Urbanaura Clothing’s Inventory and Sales Management System! 🛍️ This system is designed to streamline stock management, track sales, and enhance the online shopping experience for customers.
 
 🎯 Features
